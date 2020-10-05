@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aplikasi Input Nama</string>
+    <string name="contohinput">cth: Firdaus Rey</string>
+    <string name="tv_label">Masukan Nama Anda</string>
+    <string name="btnShow">Tampilkan</string>
+</resources>
